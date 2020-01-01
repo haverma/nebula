@@ -1,0 +1,17 @@
+.DS_Store
+.*.swp
+
+# maven
+dependency-reduced-pom.xml
+pom.xml.versionsBackup
+target/
+.project/
+
+# IDEA
+workspace.xml
+tasks.xml
+/.idea/uiDesigner.xml
+/.idea/dictionaries/
+/.idea/libraries/
+*.iml
+/.idea/modules.xml
