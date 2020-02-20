@@ -1,5 +1,6 @@
 # nebula
 A multi-node cluster based distributed storage system (in progress)
+- Also contains a Spring Boot application to fetch and show the latest trending hashtags in tweets of a selected location (using nebula as the persistence layer). 
 
 ## Prerequisites
 - Java (1.8)
